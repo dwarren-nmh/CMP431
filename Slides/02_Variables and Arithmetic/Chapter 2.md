@@ -6,8 +6,6 @@ backgroundColor: #fff
 # backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 ---
 
-![bg left:50% 60%](https://i.imgur.com/RvHqB9S.png)
-
 # **Chapter 2**
 
 ## Variables and arithmetic
@@ -48,5 +46,45 @@ import, from, def, return, None, while, break, continue, pass, True, False, elif
 
 ---
 
-# IDLE
+# Variables
 
+A variable in programming is really a "named container". Another way to think of it is a named memory location.
+
+A variable can **vary** over time, because it's a variable.
+
+```python
+x = 3
+x = 5
+x = 2*x - 1
+```
+
+With each line above, the value contained in the variable x changes. First it's set to `3`, then `5`, and finally computes `2 times 5 minus 1` and stores the result into x
+
+---
+
+# Variables
+
+Variables can have different **types**, depending on what it is currently holding:
+- an **int** is a number without a decimal (integer) `5`
+- a **float** is a number with a floating point decimal `3.14159`
+- a **string** is a string of characters, or a single character `"hello"`
+- a **boolean** is a value which is either true or false
+
+There are many other types in python. Python chooses the type for you, but you can override it's choice if you need to.
+
+---
+
+# Arithmetic
+
+## Standard operators
+
+Python uses the standard arithmetic operators that we have in algebra: `+ - * /`
+
+Unlike in the syntax we use in math, the multiplication sign `*` must be used when multiplying.
+
+## Additional operators
+
+Python, and other languages, also include additional operators for arithmetic:
+- `%` is the modulo, it calculates the remainder after division (eg `17 % 3 --> 2`)
+- `//` is the integer division (eg `7//2 --> 3`)
+- `**` is for exponents, (eg `2**3 --> 8`)
