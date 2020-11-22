@@ -5,6 +5,11 @@ backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 ---
 
+# Discrete Math with Python
+
+## How computers work, and a brief introduction to python
+
+---
 # How a computer works
 
 Everything the computer does revolves around two core components: CPU and Memory
