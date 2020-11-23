@@ -5,11 +5,13 @@ title: Discrete Math with Python - Winter 2020
 
 ## Class Slides:
 
-### Chapter 1: Introduction
+### Chapter 0 & 1: Introduction
 
-#### 1.1 : [Introduction to the class](Slides/01_Introduction/Introduction%20to%20the%20Course.html) - [(pdf)](Slides/01_Introduction/Introduction%20to%20the%20Course.pdf)
+#### 1.1 : [Class Expectations](Slides/01_Introduction/Introduction%20to%20the%20Course.html) - [(pdf)](Slides/01_Introduction/Introduction%20to%20the%20Course.pdf)
 
-#### 1.2 : [Introduction to Computers and Python](Slides/01_Introduction/Introduction%20to%20Computers%20and%20Python.html) - [(pdf)](Slides/01_Introduction/Introduction%20to%20Computers%20and%20Python.pdf)
+#### 1.2 : [POGIL](Slids/../Slides/01_Introduction/Introduction%20to%20POGIL.html) - [(pdf)](Slides/01_Introduction/Introduction%20to%20POGIL.pdf)
+
+#### 1.3 : [Introduction to Computers and Python](Slides/01_Introduction/Introduction%20to%20Computers%20and%20Python.html) - [(pdf)](Slides/01_Introduction/Introduction%20to%20Computers%20and%20Python.pdf)
 
 ### Chapter 2: Variables and Arithmetic
 
