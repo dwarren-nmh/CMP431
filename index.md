@@ -15,4 +15,4 @@ title: Discrete Math with Python - Winter 2020
 
 ### Chapter 2: Variables and Arithmetic
 
-#### 2.1 : [Variables and Arithmetic](Slides/02_Variables%20and%20Arithmetic/Chapter%202.html) - [(pdf)](Slides/02_Variables%20and%20Arithmetic/Chapter%202.pdf)
+#### 2.2 : [Variables and Arithmetic](Slides/02_Variables%20and%20Arithmetic/Chapter%202.html) - [(pdf)](Slides/02_Variables%20and%20Arithmetic/Chapter%202.pdf)

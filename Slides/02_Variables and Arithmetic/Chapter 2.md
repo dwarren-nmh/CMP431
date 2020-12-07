@@ -3,7 +3,7 @@ marp: true
 _class: lead
 paginate: true
 backgroundColor: #fff
-# backgroundImage: url('https://marp.app/assets/hero-background.jpg')
+backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 ---
 
 # **Chapter 2**
@@ -71,6 +71,19 @@ Variables can have different **types**, depending on what it is currently holdin
 - a **boolean** is a value which is either true or false
 
 There are many other types in python. Python chooses the type for you, but you can override it's choice if you need to.
+
+---
+
+# Variables
+
+"A name of a variable may consist only of letters, digits, and the underscore characters, and it cannot start with a digit. Python programming style calls for all names of variables to start with a lowercase letter. A name of a variable is also allowed to begin with an underscore." - pg 26
+
+| Good Names  | Bad Names |
+|---------|----------------|
+|`x`|`All`|
+|`total_pages`|`totalPages`|
+|`sum`|`"sum"`|
+|`_r`|`3trees`|
 
 ---
 
