@@ -26,7 +26,7 @@ In general, a good algorithm has three properties:
 
 The Madhava-Leibniz series uses the following to approximate $\pi$:
 
-# $\pi = \sqrt{12} \sum\limits_{k=1}^{\infty} \frac{ (-\frac{1}{3})^k}{2k+1}$
+# $\pi = \sqrt{12} \sum\limits_{k=0}^{\infty} \frac{ (-\frac{1}{3})^k}{2k+1}$
 
 $\pi$ was known to 7 digits in Chinese mathematics and 5 to Indian mathematics in the 5th century. It wasn't until the 14th century that this series was discovered, increasing the number of known digits of pi to 11. We now know pi to 50 trillion digits.
 
@@ -34,7 +34,7 @@ $\pi$ was known to 7 digits in Chinese mathematics and 5 to Indian mathematics i
 
 # Approximating Pi
 
-## $\pi = \sqrt{12} \sum\limits_{k=1}^{\infty} \frac{(-\frac{1}{3})^k}{2k+1}$
+## $\pi = \sqrt{12} \sum\limits_{k=0}^{\infty} \frac{(-\frac{1}{3})^k}{2k+1}$
 
 This series represents an algorithm. It qualifies for the three main principles of an algorithm:
 
